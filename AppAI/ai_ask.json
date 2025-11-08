@@ -1,0 +1,47 @@
+[
+    {
+        "id": 1,
+        "theme": "",
+        "text": "Tu préfères avoir un superpouvoir lié à la téléportation ou à la télékinésie ?",
+        "option_a": "Téléportation",
+        "option_b": "Télékinésie",
+        "nsfw": false,
+        "age_limit": 0
+    },
+    {
+        "id": 2,
+        "theme": "",
+        "text": "Tu préfères vivre dans un monde où les chiens parlent ou dans un monde où les chats parlent ?",
+        "option_a": "Chiens parlent",
+        "option_b": "Chats parlent",
+        "nsfw": false,
+        "age_limit": 0
+    },
+    {
+        "id": 3,
+        "theme": "",
+        "text": "Tu préfères avoir la capacité de voler ou d'être invisible ?",
+        "option_a": "Voler",
+        "option_b": "Invisible",
+        "nsfw": false,
+        "age_limit": 0
+    },
+    {
+        "id": 4,
+        "theme": "",
+        "text": "Tu préfères passer une semaine sur une île déserte ou dans une grande ville animée ?",
+        "option_a": "Île déserte",
+        "option_b": "Grande ville animée",
+        "nsfw": false,
+        "age_limit": 0
+    },
+    {
+        "id": 5,
+        "theme": "",
+        "text": "Tu préfères toujours avoir trop chaud ou toujours avoir trop froid ?",
+        "option_a": "Trop chaud",
+        "option_b": "Trop froid",
+        "nsfw": false,
+        "age_limit": 0
+    }
+]
